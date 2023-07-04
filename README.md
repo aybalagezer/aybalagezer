@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I am <a href="https://github.com/aybalagezer" target="_blank">Aybala GEZER</a> </h1>
-<h2 align="center">I am learning C#</h2>
+<h2 align="center"></h2>
 
 <br/>
 
 --- 
 
-<h2 align="center">🥇 My Skills 🥇</h2>
+<h2 align="center"></h2>
 
 <table align="center">
   <tbody>
@@ -25,13 +25,13 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{aybalagezer}/count.svg" alt="Aybalagezer" :: Visitor's Count" /></p>
 
-<h4 align="center">👅 Languages Used 👅</h4>
+<h4 align="center"></h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aybalagezer&langs_count=10&layout=compact" alt="aybalagezer :: Top Langs" /></p>
 
 ---
 
-<h2 align="center">👽 Profile Statistics 👽</h2>
+<h2 align="center"></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aybalagezer&show_icons=true&theme=synthwave" alt="aybalagezer :: Profile Stats" />
